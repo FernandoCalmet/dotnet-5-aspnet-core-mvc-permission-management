@@ -15,7 +15,7 @@
 
 ## 🔥 ACERCA DEL PROYECTO
 
-Este proyecto es una muestra de gestión de usuarios, inicio de sesión, cierre de sesión, registro, rolesy permisos. Se utilizo ``ASP.NET Core 5 MVC`` con C# + Entity Framework + SQLServer.
+Este proyecto es una muestra de gestión de usuarios, inicio de sesión, cierre de sesión, registro, roles y permisos. Se utilizo ``ASP.NET Core 5 MVC`` con C# + Entity Framework + SQLServer.
 
 ## ✔️ CARACTERÍSTICAS
 
@@ -46,14 +46,18 @@ Ejecutar aplicación.
 dotnet run
 ```
 
-NOTA `(No es necesario para la instalación)`: Agregar una nueva migración
+### APUNTES ADICIONALES
+
+No es necesario para la instalación.
+
+Agregar una nueva migración
 
 ```bash
 add-migration "example name migration"
 update-database
 ```
 
-NOTA `(No es necesario para la instalación)`: Eliminar la base de datos
+Eliminar la base de datos
 
 ```bash
 drop-database
