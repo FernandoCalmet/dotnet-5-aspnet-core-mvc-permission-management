@@ -65,7 +65,11 @@ drop-database
 
 ## 📥 DEPENDENCIAS
 
-- [FontAwesome.Sharp](https://www.nuget.org/packages/FontAwesome.Sharp) : Una biblioteca para incrustar iconos de Font Awesome en aplicaciones de WPF y Windows Forms.
+- [Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore](https://www.nuget.org/packages/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore/) : Middleware ASP.NET Core para páginas de error de Entity Framework Core. Utilice este middleware para detectar y diagnosticar errores con las migraciones de Entity Framework Core.
+- [Microsoft.AspNetCore.Identity.EntityFrameworkCore](https://www.nuget.org/packages/Microsoft.AspNetCore.Identity.EntityFrameworkCore/) : Proveedor de identidad ASP.NET Core que usa Entity Framework Core.
+- [Microsoft.AspNetCore.Identity.UI](https://www.nuget.org/packages/Microsoft.AspNetCore.Identity.UI/) : La interfaz de usuario de identidad de ASP.NET Core es la interfaz de usuario integrada de Razor Pages predeterminada para el marco de identidad de ASP.NET Core.
+- [Microsoft.EntityFrameworkCore.SqlServer](https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.SqlServer/) : Proveedor de base de datos de Microsoft SQL Server para Entity Framework Core.
+- [Microsoft.EntityFrameworkCore.Tools](https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.Tools/) : Entity Framework Core Tools para la consola del administrador de paquetes NuGet en Visual Studio.
 
 ## 📄 LICENCIA
 
