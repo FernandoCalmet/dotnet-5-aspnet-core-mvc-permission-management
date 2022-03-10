@@ -31,7 +31,7 @@ Este proyecto es una muestra de gestión de usuarios, inicio de sesión, cierre 
 Clonar el repositorio.
 
 ```bash
-gh repo clone FernandoCalmet/CS-ASPNET-Core-MVC-Permission-Management
+gh repo clone FernandoCalmet/DOTNET-5-ASPNET-Core-MVC-Permission-Management
 ```
 
 Crear la migración de base de datos
